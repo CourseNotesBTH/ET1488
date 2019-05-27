@@ -35,16 +35,18 @@ There are some different type of files that you may come across in each course n
 # Content
 <a name="content"></a>
 
-| File name          |  Labels  | Description                              |
-| ------------------ | :------: | ---------------------------------------- |
+| File name          | Labels | Description                                                  |
+| ------------------ | :----: | ------------------------------------------------------------ |
 | Notes part 1.md    | ✅  🇸🇪  | Lecture notes from 2018 (part 1). Requires Typora or any other Markdown & MathJax compatible editor |
-| Notes part 1.pdf   | ✅  🇸🇪  | Rendered version of the same file        |
+| Notes part 1.pdf   | ✅  🇸🇪  | Rendered version of the same file                            |
 | Notes part 2.md    | ✅  🇸🇪  | Lecture notes from 2018 (part 2). Requires Typora or any other Markdown & MathJax compatible editor |
-| Notes part 2.pdf   | ✅  🇸🇪  | Rendered version of the same file        |
-| cheat sheet.md     | 📝  🇸🇪 | Everything necessary to pass the practical exam in one document. Every command + context, description and configuration needed. Requires Typora or any other Markdown & MathJax compatible editor |
-| cheat sheet.pdf    | 📝  🇸🇪 | Rendered version of the same file        |
-| revision notes.md  | 📝  🇸🇪 | Revision notes based on earlier exams. Requires Typora or any other Markdown & MathJax compatible editor |
-| revision notes.pdf | 📝  🇸🇪 | Rendered version of the same file        |
+| Notes part 2.pdf   | ✅  🇸🇪  | Rendered version of the same file                            |
+| cheat sheet.md     | 📝  🇸🇪  | Everything necessary to pass the practical exam in one document. Every command + context, description and configuration needed. Requires Typora or any other Markdown & MathJax compatible editor |
+| cheat sheet.pdf    | 📝  🇸🇪  | Rendered version of the same file                            |
+| revision notes.md  | 📝  🇸🇪  | Revision notes based on earlier exams. Requires Typora or any other Markdown & MathJax compatible editor |
+| revision notes.pdf | 📝  🇸🇪  | Rendered version of the same file                            |
+| CiscoExam2.md      |   🇬🇧   | Answers for the second exam                                  |
+| CiscoExam2.pdf     |   🇬🇧   | Rendered version of the same file                            |
 
 # Purpose of the repository
 <a name="purpose"></a>
