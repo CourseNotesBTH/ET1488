@@ -47,6 +47,8 @@ There are some different type of files that you may come across in each course n
 | revision notes.pdf | 📝  🇸🇪  | Rendered version of the same file                            |
 | CiscoExam2.md      |   🇬🇧   | Answers for the second exam                                  |
 | CiscoExam2.pdf     |   🇬🇧   | Rendered version of the same file                            |
+| cheat sheet 2.md |  🇸🇪  | |
+| cheat sheet 2.pdf |  🇸🇪  | Rendered version of the corresponding md file. |
 
 # Purpose of the repository
 <a name="purpose"></a>
